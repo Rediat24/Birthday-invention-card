@@ -1,2 +1,2 @@
-# Birthday-invention-card
+# Birthday
 Birthday invention webpage
